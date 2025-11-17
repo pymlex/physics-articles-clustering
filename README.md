@@ -1,7 +1,7 @@
 # Clustering Physics Research Articles
 
 <div style="text-align: center;">
-    <img style="width: 60%;" alt="image" src="https://github.com/user-attachments/assets/dcac315a-86c9-4d21-96bd-6a5e8bbe7a20" />
+    <img alt="image" src="https://github.com/user-attachments/assets/dcac315a-86c9-4d21-96bd-6a5e8bbe7a20" />
 </div>
 
 This project performs clustering of modern physics research articles from [Kaggle](https://www.kaggle.com/datasets/victornuez/latest-research-articles) using SciBERT embeddings and K-Means.  
