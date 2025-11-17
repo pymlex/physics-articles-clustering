@@ -1,7 +1,8 @@
 # Clustering Physics Research Articles
 
-<img width="980" height="578" alt="image" src="https://github.com/user-attachments/assets/dcac315a-86c9-4d21-96bd-6a5e8bbe7a20" />
-
+<div style="text-align: center;">
+    <img style="width: 60%;" alt="image" src="https://github.com/user-attachments/assets/dcac315a-86c9-4d21-96bd-6a5e8bbe7a20" />
+</div>
 
 This project performs clustering of modern physics research articles from [Kaggle](https://www.kaggle.com/datasets/victornuez/latest-research-articles) using SciBERT embeddings and K-Means.  
 The goal is to analyse the structure of scientific texts, identify natural groups of articles, and study whether semantic embeddings correlate with article importance metrics such as citations, accesses, and online attention.
