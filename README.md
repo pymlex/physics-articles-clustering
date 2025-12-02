@@ -9,9 +9,9 @@ The goal is to analyse the structure of scientific texts, identify natural group
 
 ## Overview
 
-- Source: Latest research articles dataset from Kaggle.  
-- Task: Cluster physics articles using SciBERT text embeddings.  
-- Input: Title and abstract combined into a single text field.  
+- Source: latest research articles dataset from Kaggle.  
+- Task: cluster physics articles using SciBERT text embeddings.  
+- Input: title and abstract combined into a single text field.  
 - Embeddings: SciBERT (110M parameters, uncased scientific vocabulary).  
 - Clustering: K-Means, number of clusters selected via silhouette score.  
 - Additional analysis includes PCA, t-SNE projections, and cluster statistics.
