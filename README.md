@@ -18,6 +18,5 @@ The goal is to analyse the structure of scientific texts, identify natural group
 
 ## Findings
 
-Clustering separates articles semantically, but the resulting groups do not correlate with citation-based or attention-based importance metrics.  
-Clusters are determined primarily by thematic content rather than article impact.  
+Clustering separates articles semantically, but the resulting **groups do not correlate** with citation-based or attention-based importance metrics.  
 This illustrates the limitation of BERT-type models: embeddings capture semantic similarity effectively but do not encode deeper structural or contextual value such as scientific influence.
